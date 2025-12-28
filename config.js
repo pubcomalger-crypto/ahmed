@@ -4,9 +4,9 @@ const profileConfig = {
     // Informations de base
 
 
-    name: "COCA",
-    bio: "SALAM",
-    profileImage: "https://i.ibb.co/NgKMhgMT/cocacola.jpg",
+    name: "ahmed",
+    bio: "rhm",
+    profileImage: "https://storage.ws.pho.to/s2/a956d80499e55a3628d32ed89a182639a2bb0eb7_m.jpg",
     
 
 
@@ -83,3 +83,4 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
     window.profileConfig = profileConfig;
 }
+
